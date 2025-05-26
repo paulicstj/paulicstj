@@ -1,5 +1,5 @@
 <!--Banner-->
-![paulicstj Banner Image](https://github.com/paulicstj/paulicstj/blob/main/header_magenta)
+![paulicstj Banner Image](Magenta Moderna Aula Virtual Google Classroom Header.png)
 
 
 </div>
