@@ -1,9 +1,7 @@
 <!--Banner-->
 ![Kiran1689 Banner Image](https://github.com/Kiran1689/kiran1689/blob/main/banner.png)
 
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+
 </div>
 
 
