@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 this is Paula
 
 ✨ Passionate about data science, analytics & solving real-world problems with code.  
 🧠 Bootcamp graduate with projects in machine learning, NLP & computer vision.  
