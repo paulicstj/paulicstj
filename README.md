@@ -1,5 +1,5 @@
 <!--Banner-->
-![Kiran1689 Banner Image](file:///Users/pauli/Downloads/Magenta%20Moderna%20Aula%20Virtual%20Google%20Classroom%20Header.png)
+![paulicstj Banner Image](file:///Users/pauli/Downloads/Magenta%20Moderna%20Aula%20Virtual%20Google%20Classroom%20Header.png)
 
 
 </div>
